@@ -153,6 +153,7 @@ in sp (scale independent pixel) and dp (density independent pixel) units.
 <br>
 <p align="center"><img src="images/pic5.png"></p>
 <br>
+
 ## Set textSize In Java class:
 
 <p><b>In the code below, we have set the text size of buttons in java class.</b></p>
