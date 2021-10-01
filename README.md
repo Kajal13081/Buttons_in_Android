@@ -11,7 +11,7 @@ developers often use it.
 Types of buttons in android studio are button, imagebutton, checkbox, switch, chip, radio
 button etc
 
-<p align="center" width="100%"><img src="images/types.png"></p>
+<p align="center" width="100%"><img src="/types.png"></p>
 
 <p align="center" width="100%"><img src="images/button_in_android.png" width="500px"></p>
 
@@ -425,6 +425,7 @@ We have taken the default Android icon from the drawable resource manager
 <br>
 <p align="center"><img src="images/pic9.png"> </p>
 <br>
+
 ### For icon at top of the text
 
 ```xml
@@ -433,6 +434,7 @@ android:drawableTop="@drawable/ic_launcher_foreground"
 
 <p align="center"><img src="images/pic10.png"> </p>
 <br>
+
 ### For icon at top of the text
 
 ```xml
@@ -441,6 +443,7 @@ android:drawableTop="@drawable/ic_launcher_foreground"
 
 <p align="center"><img src="images/pic10.png"> </p>
 <br>
+
 ### For icon at the start of text
 
 ```xml
