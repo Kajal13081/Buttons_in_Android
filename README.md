@@ -427,7 +427,7 @@ We have taken the default Android icon from the drawable resource manager
 <p align="center"><img src="/pic9.png"> </p>
 <br>
 
-### For icon at top of the text
+#### For icon at top of the text
 
 ```xml
 android:drawableTop="@drawable/ic_launcher_foreground"
@@ -436,7 +436,7 @@ android:drawableTop="@drawable/ic_launcher_foreground"
 <p align="center"><img src="/pic10.png"> </p>
 <br>
 
-### For icon at top of the text
+#### For icon at top of the text
 
 ```xml
 android:drawableTop="@drawable/ic_launcher_foreground"
@@ -445,7 +445,7 @@ android:drawableTop="@drawable/ic_launcher_foreground"
 <p align="center"><img src="/pic10.png"> </p>
 <br>
 
-### For icon at the start of text
+#### For icon at the start of text
 
 ```xml
 android:drawableLeft="@drawable/ic_launcher_foreground"
@@ -573,5 +573,7 @@ Toast.LENGTH_SHORT).show();
 ## References:
 
 <a>https://developer.android.com/reference/android/widget/Button</a><br>
+
 <a>https://developer.android.com/guide/topics/ui/controls/button</a><br>
+
 <a>https://material.io/components/buttons/android</a>
