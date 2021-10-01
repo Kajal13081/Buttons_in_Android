@@ -563,7 +563,7 @@ Toast.LENGTH_SHORT).show();
 #### Now start the AVD in Emulator and run the app. There is a button. Click on it and you will see a message on screen when the button is clicked.
 
 <br>
-<p align="center"><img src="images/mobile.png"> </p>
+<p align="center">![onclick event](https://user-images.githubusercontent.com/80222700/135617065-67db2511-df36-466a-8d7f-32a27b631680.png)</p>
 <br>
 
 ## References:
