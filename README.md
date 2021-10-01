@@ -13,7 +13,7 @@ button etc
 
 <p align="center" width="100%"><img src="/types.png"></p>
 
-<p align="center" width="100%"><img src="images/button_in_android.png" width="500px"></p>
+<p align="center" width="100%"><img src="/button_in_android.png" width="500px"></p>
 
 ## <p>Xml Code of button</p>
 
@@ -73,7 +73,7 @@ Here we have used bottom_start gravity.</p>
     app:backgroundTint="#673AB7"/>
 ```
 
-<p align="center"><img src="images/pic2.png"></p>
+<p align="center"><img src="/pic2.png"></p>
 <br>
 
 <p><b>3. text </b>: text attribute displays the text of a Button.
@@ -92,7 +92,7 @@ We can display text in XML and Java class both.
 ```
 
 <br>
-<p align="center"><img src="images/pic3.png"></p>
+<p align="center"><img src="/pic3.png"></p>
 <br>
 
 ## Set Text Using Java Class:
@@ -120,7 +120,7 @@ button.setText("Android Development");//set the text on button
 ```
 
 <br>
-<p align="center"><img src="images/pic4.png"></p>
+<p align="center"><img src="/pic4.png"></p>
 <br>
 
 ## Set Text Color On Button In Java class:
@@ -151,7 +151,7 @@ in sp (scale independent pixel) and dp (density independent pixel) units.
 ```
 
 <br>
-<p align="center"><img src="images/pic5.png"></p>
+<p align="center"><img src="/pic5.png"></p>
 <br>
 
 ## Set textSize In Java class:
@@ -182,7 +182,7 @@ and normal. To use more than one text style for a Button us â€œ|â€ oper
 ```
 
 <br>
-<p align="center"><img src="images/pic6.png"></p>
+<p align="center"><img src="/pic6.png"></p>
 <br>
 
 <p><b>7. background </b>: background attribute displays the background of a Button. We can
@@ -203,7 +203,7 @@ display a color or a drawable in the background of a Button.
 ```
 
 <br>
-<p align="center"><img src="images/redappdevelopment.png"></p>
+<p align="center"><img src="/redappdevelopment.png"></p>
 <br>
 
 ## Set background in Button In Java class:
@@ -240,7 +240,7 @@ button background
 ```
 
 <br>
-<p align="center"><img src="images/redappdevelopment2.png"></p>
+<p align="center"><img src="/redappdevelopment2.png"></p>
 <br>
 
 ## Making buttons attractive
@@ -264,7 +264,7 @@ button background
     app:layout_constraintVertical_bias="0.499" />
 ```
 
-<p align="center"><img src="images/pic2.png"></p>
+<p align="center"><img src="/pic2.png"></p>
 <br>
 
 ## Gradient button
@@ -274,7 +274,7 @@ Making gradient colors is fun. Because they look just like magic when one color 
 First make a drawable file. Name it gradientbutton.xml.
 <br>
 
-<p align="center"><img src="images/gradient.png" width="400px"></p>
+<p align="center"><img src="/gradient.png" width="400px"></p>
 
 <b>In drawable file:</b> \
  <br>
@@ -315,7 +315,7 @@ We need gradient, shape and corners. For gradient we have used two color values,
 ```
 
 <br>
-<p align="center"><img src="images/gradient2.png" width="400px"></p>
+<p align="center"><img src="/gradient2.png" width="400px"></p>
 <br>
 <b>Outlined buttons:</b> 
  <br>
@@ -361,14 +361,14 @@ We need gradient, shape and corners. For gradient we have used two color values,
 ```
 
 <br>
-<p align="center"><img src="images/pic.png" width="400px"></p>
+<p align="center"><img src="/pic.png" width="400px"></p>
 <br>
 
 ## Contained button
 
 Note The contained button is the default style in android studio
 
-<p align="center"><img src="images/containedbutton.png" width="400px"></p>
+<p align="center"><img src="/containedbutton.png" width="400px"></p>
 <br>
 
 In xml Layout
@@ -398,7 +398,7 @@ of the text. <br>
 We have taken the default Android icon from the drawable resource manager
 <br>
 
-<p align="center"><img src="images/pic7.png"> </p>
+<p align="center"><img src="/pic7.png"> </p>
 
 <p><b>XML Code for icon below the text.</b></p>
 
@@ -422,18 +422,9 @@ We have taken the default Android icon from the drawable resource manager
     android:drawableBottom="@drawable/ic_launcher_foreground"/>
 ```
 
-<p align="center"><img src="images/pic8.png"> </p>
+<p align="center"><img src="/pic8.png"> </p>
 <br>
-<p align="center"><img src="images/pic9.png"> </p>
-<br>
-
-### For icon at top of the text
-
-```xml
-android:drawableTop="@drawable/ic_launcher_foreground"
-```
-
-<p align="center"><img src="images/pic10.png"> </p>
+<p align="center"><img src="/pic9.png"> </p>
 <br>
 
 ### For icon at top of the text
@@ -442,7 +433,16 @@ android:drawableTop="@drawable/ic_launcher_foreground"
 android:drawableTop="@drawable/ic_launcher_foreground"
 ```
 
-<p align="center"><img src="images/pic10.png"> </p>
+<p align="center"><img src="/pic10.png"> </p>
+<br>
+
+### For icon at top of the text
+
+```xml
+android:drawableTop="@drawable/ic_launcher_foreground"
+```
+
+<p align="center"><img src="/pic10.png"> </p>
 <br>
 
 ### For icon at the start of text
@@ -457,7 +457,7 @@ android:drawableLeft="@drawable/ic_launcher_foreground"
 
 It has a text label, a stroked container and an optional icon.
 
-<p align="center"><img src="images/button.png"> </p>
+<p align="center"><img src="/button.png"> </p>
 <br>
    1. Text label<br>
    2. Container<br>
@@ -466,7 +466,7 @@ It has a text label, a stroked container and an optional icon.
 ## ANATOMY FOR CONTAINED BUTTON WITH TEXT AND ICON
 
 <br>
-<p align="center"><img src="images/button2.png"> </p>
+<p align="center"><img src="/button2.png"> </p>
 <br>
 
 ## Circle button
@@ -505,7 +505,7 @@ button.<br>
 </selector>
 ```
 
-<p align="center"><img src="images/round.png"> </p>
+<p align="center"><img src="/round.png"> </p>
 <br>
 
 # Responding to Click Events
@@ -567,7 +567,7 @@ Toast.LENGTH_SHORT).show();
 #### Now start the AVD in Emulator and run the app. There is a button. Click on it and you will see a message on screen when the button is clicked.
 
 <br>
-<p align="center">![onclick event](https://user-images.githubusercontent.com/80222700/135617065-67db2511-df36-466a-8d7f-32a27b631680.png)</p>
+<p align="center"><img src="/mobile.png"></p>
 <br>
 
 ## References:
